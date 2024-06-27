@@ -4,6 +4,7 @@
 #Date: 2024.6.27 
 #By: lakshan_sameera 
 #Category: remote 
+
 #This is a further modification of exploit https://www.exploit-db.com/exploits/43777
 
 To run first download the script file then give it  execution permission
